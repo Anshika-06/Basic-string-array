@@ -7,7 +7,6 @@ int main()
  {  
   int a;
 	char name[]= "SYMBIOSIS";
-	for (a=0 ; a<= )
-	printf("%s",name);
+        printf("%s",name);
 	return 0;
 }
